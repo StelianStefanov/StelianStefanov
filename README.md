@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi, I'm Stelian! 👋
+
+I am currently pursuing a degree in Cybersecurity in Business at the University of National and World Economy. I'm passionate about technology, cybersecurity, software engineering, and AI.
+
+Right now, I'm focused on building projects in Python and Go, backed by a strong foundation in Linux.
+
 
 <!--
 **StelianStefanov/StelianStefanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
